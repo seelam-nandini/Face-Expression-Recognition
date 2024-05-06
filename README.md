@@ -19,9 +19,7 @@ A Flatten layer prepares the data for two dense layers with 512 and 256 neurons 
 
 ## Training and Performance
 
-During the training phase, the model is compiled using the "Adam optimizer" and categorical crossentropy loss function. It undergoes training for 70 epochs with a batch size of 128 and 
-the training process also includes a validation step using the test dataset.
-
+During the training phase, the model is compiled using the "Adam optimizer" and categorical crossentropy loss function. It undergoes training for 100 epochs with a batch size of 128 and the training process also includes a validation step using the test dataset.
 
 The model’s performance is evaluated based on its accuracy metric, which is the proportion of correctly predicted images over the total number of images in the test set. 
 At the final epoch, the model achieved an accuracy of **75.6%** on the test set.
