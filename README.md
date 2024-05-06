@@ -1,4 +1,4 @@
-# Facial Emotion Detection Project
+# Facial Emotion Detection using Deep Learning
 This project is focused on the development of a facial expression detection system. The system utilizes a convolutional neural network (CNN) to recognize and classify different human emotions based on facial expressions. The model is trained on a dataset of images labeled with seven emotion categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 
 Facial expression recognition dataset from kaggle : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
